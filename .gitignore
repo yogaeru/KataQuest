@@ -1,2 +1,6 @@
 .history
+
+image
+
+# Ignore environment variables file
 .env
